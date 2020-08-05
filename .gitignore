@@ -1,5 +1,4 @@
 .env
-node_modules
 
-!mysql-driver
+!node_modules/@cubejs-backend
 
